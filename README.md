@@ -22,31 +22,6 @@ The application analyzes sales data to generate key business insights such as:
 
 ---
 
-## 📂 Project Structure
-sales_data_analysis/
-│
-├── data/
-│ └── sales.csv
-│
-├── database/
-│ └── sales.db
-│
-├── scripts/
-│ ├── load_data.py
-│ ├── analysis.py
-│ └── visualization.py
-│
-├── visuals/
-│ ├── sales_by_region.png
-│ └── monthly_sales_trend.png
-│
-├── app.py
-├── requirements.txt
-└── README.md
-
-
----
-
 ## 📊 Dataset
 - **Dataset Name:** Sample Superstore Dataset  
 - **Source:** Kaggle  
